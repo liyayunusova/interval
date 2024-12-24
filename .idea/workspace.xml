@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bf027d6-c73c-4c95-9d44-9dc46cf348a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/interval.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/-0.1lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/-0.1lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/-0.2lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/-0.2lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/-0.3lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/-0.3lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/-0.4lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/-0.4lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/-0.5lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/-0.5lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/-0lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/-0lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/0.1lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/0.1lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/0.2lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/0.2lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/0.3lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/0.3lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/0.4lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/0.4lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/0.5lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/0.5lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/0lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_070_068/0lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/-0.1lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/-0.1lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/-0.2lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/-0.2lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/-0.3lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/-0.3lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/-0.4lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/-0.4lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/-0.5lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/-0.5lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/-0lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/-0lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/0.1lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/0.1lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/0.2lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/0.2lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/0.3lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/0.3lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/0.4lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/0.4lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/0.5lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/0.5lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/0lvl_side_a_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/04_10_2024_074_068/0lvl_side_b_fast_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2pAY4WcHA7yxoQQCKk8eqxRUPCb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.lab2.executor": "Run",
+    "Python.test.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/liyay/PycharmProjects/interval",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\liyay\PycharmProjects\interval" />
+      <recent name="C:\Users\liyay\PycharmProjects\interval\bin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lab2">
+    <configuration name="lab2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="interval" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="interval" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lab2" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bf027d6-c73c-4c95-9d44-9dc46cf348a9" name="Changes" comment="" />
+      <created>1732210156017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732210156017</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lab2.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
